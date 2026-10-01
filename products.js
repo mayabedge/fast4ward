@@ -95,5 +95,16 @@ const products = [
     "images": [
       "images/rocks-1790879548381.jpg"
     ]
+  },
+  {
+    "id": 11,
+    "name": "Hand Painted Leaves",
+    "price": 225,
+    "location": "",
+    "inStock": true,
+    "image": "images/hand-painted-leaves-1790880065191.jpg",
+    "images": [
+      "images/hand-painted-leaves-1790880065191.jpg"
+    ]
   }
 ];
