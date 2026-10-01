@@ -72,5 +72,16 @@ const products = [
     "images": [
       "images/decorative-gold-1790219198955.jpg"
     ]
+  },
+  {
+    "id": 9,
+    "name": "All Major Vegas Casinos",
+    "price": 525,
+    "location": "",
+    "inStock": true,
+    "image": "images/all-major-vegas-casinos-1790842135852.jpg",
+    "images": [
+      "images/all-major-vegas-casinos-1790842135852.jpg"
+    ]
   }
 ];
