@@ -84,5 +84,16 @@ const products = [
     "images": [
       "images/all-major-vegas-casinos-1790842135852.jpg"
     ]
+  },
+  {
+    "id": 10,
+    "name": "Rocks",
+    "price": 75,
+    "location": "",
+    "inStock": true,
+    "image": "images/rocks-1790879548381.jpg",
+    "images": [
+      "images/rocks-1790879548381.jpg"
+    ]
   }
 ];
