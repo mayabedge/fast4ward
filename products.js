@@ -38,9 +38,10 @@ const products = [
   {
     "id": 5,
     "name": "Star Wars first week 1977 showing souvenir",
-    "price": 1050,
+    "price": 1977,
     "inStock": true,
-    "image": "images/star-wars-first-week-1977-showing-souven-1789870759885.jpg"
+    "image": "images/star-wars-first-week-1977-showing-souven-1789870759885.jpg",
+    "location": ""
   },
   {
     "id": 6,
